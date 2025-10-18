@@ -1,0 +1,20 @@
+# IDEs
+.vscode/
+.idea/
+
+# Python files
+__pycache__/
+
+# Exported Artifacts
+exported_model/*
+*export*
+*artifacts*
+
+# Location of Models For Dev
+*models*
+
+# Location of Models For Test
+test/python/mha2sha-test-models
+
+# SDKs of SNPE, QNN, QAIRT
+*sdks*
